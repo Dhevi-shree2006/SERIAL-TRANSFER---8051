@@ -58,9 +58,11 @@ while(1);
 **OUTPUT:**
 <br>
 <br>
-<br>
-<br>
-<br>
+<img width="1918" height="1191" alt="Serial transfer A Screenshot 2025-11-11 083412" src="https://github.com/user-attachments/assets/ac66c79a-16f5-4b5e-94f0-3408d2c02942" />
+
+<img width="1917" height="1198" alt="serial transfer B Screenshot 2025-11-11 083835" src="https://github.com/user-attachments/assets/c05e2957-1234-4960-b455-81b6c0f18750" />
+
+
 
 **Result:**
 
